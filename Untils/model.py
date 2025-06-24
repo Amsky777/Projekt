@@ -42,3 +42,4 @@ class Klient:
 
     def __repr__(self):
         return f"<Klient id={self.id} nazwa={self.nazwa} zaklad_id={self.zaklad.id}>"
+

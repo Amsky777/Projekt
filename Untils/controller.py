@@ -131,3 +131,4 @@ class AppController:
     def get_klienci_dla_zakladu(self, zaklad):
         """Zwróć listę klientów przypisanych do danego zakładu."""
         return [k for k in self.klienci if k.zaklad == zaklad]
+

@@ -536,3 +536,4 @@ odswiez_liste_klient()
 
 # Uruchomienie głównej pętli aplikacji
 root.mainloop()
+

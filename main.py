@@ -1,8 +1,8 @@
 # main.py
 import tkinter as tk
 from tkinter import ttk, messagebox
-import controller
-import map_utils
+import Untils.controller as controller
+import Untils.map_utils as map_utils
 import tkintermapview  # wymagane do korzystania z tkintermapview
 
 # Inicjalizacja głównego okna aplikacji
